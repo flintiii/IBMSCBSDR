@@ -1,0 +1,7 @@
+The two files:
+hclb.sh and
+hclcs.sh are the book reader script and the book shelf organizer script respectively.
+These allow these two Java based products to work on Gnome based Ubuntu systems.
+
+This has been tested up to 10.4 LTS.
+
